@@ -33,7 +33,7 @@
         android:id="@+id/rb_rating"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:numStars="5"/>
+        android:numStars="5" />
 
     <!-- Button can be pressed, or clicked, by the user to perform an action. -->
     <Button
